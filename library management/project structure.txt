@@ -1,0 +1,14 @@
+library-book-management/
+│
+├── backend/
+│   ├── models/
+│   │   └── Book.js
+│   ├── routes/
+│   │   └── bookRoutes.js
+│   ├── config/
+│   │   └── db.js
+│   ├── server.js
+│   ├── .env
+│   └── package.json
+│
+└── README.md
